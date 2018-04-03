@@ -6,8 +6,7 @@
 
 ## Welcome to CopperheadOS
 
-This is the bug tracker for [CopperheadOS](https://copperhead.co/android/). The source code for the operating system is kept under the
-[CopperheadOS organization](https://github.com/copperheados).
+This is the bug tracker for [CopperheadOS](https://copperhead.co/android/). The source code for the operating system is kept under the [CopperheadOS organization](https://github.com/copperheados).
 
 # Building
 
@@ -22,11 +21,6 @@ We're always looking to receive valid and descriptive bug reports to continue to
 If you're looking to request a feature please ensure
 that the [feature hasn't already been planned](https://github.com/copperhead/bugtracker/labels/enhancement). Redundant feature requests only slow things down! Most importantly if you're capable of implementing
 this feature in our OS [please let us know!](mailto:team@copperhead.co)
-
-## <a name="Porting">Porting To Other Devices/Operating Systems</a>
-
-CopperheadOS only supports Nexus devices and
-there are no plans to expand device support beyond the Nexus/Pixel line.
 
 ## Reporting issues
 
